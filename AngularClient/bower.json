@@ -1,0 +1,26 @@
+{
+  "name": "Lab6Client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/INFT4000ITCFALL2015/inft4000-cha",
+  "authors": [
+    "Christian Hapgood <christian.hapgood@gmail.com>"
+  ],
+  "description": "Client",
+  "main": "index.html",
+  "keywords": [
+    "API"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "angular-resource": "~1.4.8"
+  }
+}
